@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# metadraft
+tools/
+data_blast/
+blast_results/
+work/
+tmp/
